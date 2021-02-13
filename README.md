@@ -12,5 +12,9 @@ Hi, I'm gunwoo han!
 
 ### 논문 구현 리스트
 - DnCNN
+- GAN
+- DCGAN
+- SGAN
+- CartoonGAN(구현중)
 
 
