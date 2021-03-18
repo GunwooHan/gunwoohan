@@ -15,6 +15,6 @@ Hi, I'm gunwoo han!
 - GAN
 - DCGAN
 - SGAN
-- CartoonGAN(구현중)
+- CartoonGAN
 
 
