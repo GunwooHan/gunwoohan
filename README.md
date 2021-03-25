@@ -17,7 +17,7 @@
 - WGAN
 - SGAN
 - CartoonGAN
-- GTK
+- GTN
 
 ## facial landmark
 - PRNet
