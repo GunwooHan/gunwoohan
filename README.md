@@ -14,15 +14,13 @@
 - GAN
 - DCGAN
 - CGAN
-- WGAN
 - SGAN
 - CartoonGAN
-- GTN
 
 ## facial landmark
-- PRNet
 
 ## classification
-- VGG
-- ResNet
-- SENet(ResNet18)
+- VGG11, VGG11(LRN), VGG13, VGG13(Conv1), VGG16, VGG19
+- ResNet34, ResNet50
+- SENet(ResNet18, ResNet34, ResNet50)
+- DenseNet121
