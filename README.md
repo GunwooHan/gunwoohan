@@ -1,26 +1,16 @@
-# Gunwoo Han
+# 한건우 (Gunwoo Han)
+<div align=center>
 
-공사중
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FGunwooHan%2Fgunwoohan&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)
 
-# Interest
-- Image Generation
-- Super resolution
-- Denoising
+</div>
 
-# 논문 구현 리스트
----
-## Image generation
-- GAN
-- DCGAN
-- CGAN
-- SGAN
-- CartoonGAN
+## Deep Learning Engineer(Computer Vision)
+- Naver BoostCamp AI Tech 2기 (2021.07 ~ 2021.12)
+- Pulse9 DeepLearning Research(Face Generation, Face Swap) (2021.04~2021.06)
+- 모두의연구소 AIFFEL Computer Vision 조교 (2021.04~2021.05)
 
-## Denoising
-- DnCNN
-
-## Classification
-- VGG11, VGG11(LRN), VGG13, VGG13(Conv1), VGG16, VGG19
-- ResNet34, ResNet50
-- SENet(ResNet18, ResNet34, ResNet50)
-- DenseNet121
+## Interest
+- Face Generation
+- Catoonization
+- Semantic Segmentation
