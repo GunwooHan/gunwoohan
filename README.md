@@ -1,7 +1,7 @@
 # 한건우 (Gunwoo Han)
 
 
-## Deep Learning Engineer
+## Experience
 - COMPASS1 ML Research Engineer (STT, 3D Pose Estimation, Instance Object Detection, LLM) (2026.04~)
 - GAUDIO Lab ML Engineer (Lyrics Alignment, MLOps) (2024.08~2026.04)
 - ViveStudios DeepLearning Research(Digital human, Face Swap) (2022.01~2024.08)
